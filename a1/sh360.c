@@ -400,7 +400,7 @@ int main(int argc, char *argv[]) {
                     OR(token, path[n], num_tokens);
                 }
                 else if (strcmp(token[0],"PP") == 0){
-                    // PP(token, path[n], num_tokens);
+                    PP(token, path[n], num_tokens);
                 }
                 else{
                     normal(token, path[n], num_tokens);
