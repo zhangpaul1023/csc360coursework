@@ -1,0 +1,11 @@
+/bin/ls: invalid option -- '>'
+Try '/bin/ls --help' for more information.
+ix_e.c
+appendixa
+appendixb
+appendixc
+appendixd
+output.txt
+sh360
+sh360.c
+sh360.c
